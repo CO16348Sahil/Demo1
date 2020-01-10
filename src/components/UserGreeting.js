@@ -16,6 +16,7 @@ class UserGreeting extends Component {
             </div>
         )
     }
+    /* this is a comment*/
 }
 
 export default UserGreeting
